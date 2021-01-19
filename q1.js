@@ -1,6 +1,6 @@
 
 function run() {
-    const input = document.getElementById("input").value;
+    const input = document.getElementById("input1").value;
     const output = document.getElementById("output");
     const theInput = JSON.parse(input);
     let out = "";
