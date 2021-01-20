@@ -1,4 +1,4 @@
-
+//use two input - 1 for array , 2 for number
 function run() {
     const input1 = document.getElementById("input1").value;
     const input2 = document.getElementById("input2").value;
